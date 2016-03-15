@@ -1,11 +1,11 @@
 # Codewars-challenges
 My code on codewars use ES2015 syntax
 
-‪#‎Prerequisite‬
+‪# Prerequisite‬
 1. NodeJS (always)
 2. command: npm install
 
-‪#‎ Dev‬ depedencies ES2015 compiler
+‪# Dev‬ depedencies ES2015 compiler
 1. babel-cli
 2. babel-preset-es2015
 
@@ -18,8 +18,8 @@ My code on codewars use ES2015 syntax
 1. jscs --preset airbnb
 2. command: jscs [[path]] --preset airbnb
 
-‪#‎ How‬ to run test
+‪# How‬ to run test
 ~Commad: npm test
 
-‪#‎Referrals‬
+‪# Referrals‬
 www.codewars.com/r/snhjzQ
