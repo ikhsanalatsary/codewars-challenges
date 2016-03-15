@@ -10,7 +10,7 @@ describe('Tasks multiply', () => {
 		});
 	});
 
-	describe('Test Multiply', () => {
+	describe('Run Multiply', () => {
 		it('should return number from result multiply', () => {
 			multiply(2,3).should.equal(6);
 		});
