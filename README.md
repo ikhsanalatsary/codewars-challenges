@@ -1,7 +1,7 @@
 # Codewars-challenges
 My code on codewars use ES2015 syntax
 
-‪## Prerequisite
+## Prerequisite
 1. NodeJS(always)
 2. command: `npm install`
 
@@ -21,5 +21,5 @@ My code on codewars use ES2015 syntax
 ## How to run test
 command: `npm test`
 
-‪## Referrals‬
-www.codewars.com/r/snhjzQ
+## Referrals‬
+[codewars.com](www.codewars.com/r/snhjzQ)
